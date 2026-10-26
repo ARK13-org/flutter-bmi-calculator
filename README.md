@@ -6,7 +6,7 @@ A simple BMI (Body Mass Index) calculator mobile app built with Flutter and Dart
 
 | Home Screen | BMI Result |
 |:---:|:---:|
-| ![BMI Calculator Home Screen](screenshots/bmi-home.png) | ![BMI Calculator Result Screen](screenshots/bmi-result.png) |
+| ![BMI Calculator Home Screen](01.jpg) | ![BMI Calculator Result Screen](02.jpg) |
 
 ## ✨ Features
 
